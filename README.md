@@ -13,7 +13,7 @@ Hey, I'm Nidheesh, A passionate self-taught web developer from India.
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt=".NET" src="https://img.shields.io/badge/-DotNet-007ACC?style=flat-square&logo=dotnet&logoColor=white" />
-  <img alt="C#" src="https://img.shields.io/badge/-C#-007ACC?style=flat-square&logo=c#&logoColor=white" />
+  <img alt="Csharp" src="https://img.shields.io/badge/-Csharp-007ACC?style=flat-square&logo=csharp&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-007ACC?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />

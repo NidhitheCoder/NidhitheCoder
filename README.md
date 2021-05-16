@@ -1,10 +1,12 @@
 # Hi there 👋
 
  Hey, I'm Nidheesh, A developer from India. A man who likes and learns to solve complex problems in the simplest way. I think helping others is the best learning practice.
-\
-\
-\
 
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <h3>Things I code with</h3>
 <p>
@@ -30,12 +32,11 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
-\
-\
-\
-\
-\
-\
+<br>
+<br>
+<br>
+<br>
+<br>
 
 - 🌱 I’m currently learning everything :yum:
 - ⚡ Fun fact: :key: In JS Object is everything :heart_eyes:  

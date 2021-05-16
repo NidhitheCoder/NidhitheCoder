@@ -1,6 +1,9 @@
-### Hi there 👋
+# Hi there 👋
 
-Hey, I'm Nidheesh, A passionate self-taught web developer from India. 
+ Hey, I'm Nidheesh, A passionate web developer from India. 
+
+
+
 
 <h3>Things I code with</h3>
 <p>
@@ -11,7 +14,10 @@ Hey, I'm Nidheesh, A passionate self-taught web developer from India.
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-brightgreen?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-CC6699?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-TailwindCSS-CC6699?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="Wordpress" src="https://img.shields.io/badge/-Wordpress-db7092?style=flat-square&logo=wordpress&logoColor=white" />
   <img alt=".NET" src="https://img.shields.io/badge/-DotNet-007ACC?style=flat-square&logo=dotnet&logoColor=white" />
   <img alt="Csharp" src="https://img.shields.io/badge/-Csharp-007ACC?style=flat-square&logo=csharp&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-007ACC?style=flat-square&logo=mysql&logoColor=white" />
@@ -23,8 +29,15 @@ Hey, I'm Nidheesh, A passionate self-taught web developer from India.
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
-- 🌱 I’m currently learning everything 😄
-- ⚡ Fun fact: ✨ Object is everything ✨ 
+
+
+
+
+
+
+
+- 🌱 I’m currently learning everything :yum:
+- ⚡ Fun fact: :key: In JS Object is everything :heart_eyes:  
 <!--
 **NidhitheCoder/NidhitheCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

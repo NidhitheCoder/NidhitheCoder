@@ -1,6 +1,6 @@
 # Hi there 👋
 
- Hey, I'm Nidheesh, A developer from India. A man who likes and learns to solve complex problems in the simplest way. I think helping others is the best learning practice.
+ Hey, I'm Nidheesh, A developer from India.
 
 <br>
 <br>
@@ -27,14 +27,15 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="React Query" src="https://img.shields.io/badge/-ReactQuery-CC6699?style=flat-square&logo=reactquery&logoColor=white" />
 </p>
 
 <br>
 <br>
 <br>
 
-- 🌱 I’m currently learning everything :yum:
-- ⚡ Fun fact: :key: In JS Object is everything :heart_eyes:  
+- 🌱 On a learning curve :yum:
+- ⚡ Fun fact: :key: In JS Object is everything  
 <!--
 **NidhitheCoder/NidhitheCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -55,4 +55,7 @@ Here are some ideas to get you started:
 <br>
 <hr>
 <br>
-|[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=NidhitheCoder&show_icons=true&theme=light&hide_title=true)](https://github.com/NidhitheCoder)
+![Peace's github stats](https://github-readme-stats.vercel.app/api?username=NidhitheCoder&show_icons=true&theme=light&hide_title=true)
+<br>
+<hr>
+<br>

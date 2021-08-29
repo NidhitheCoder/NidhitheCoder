@@ -1,6 +1,6 @@
 # Hi there 👋
 
- Hey, I'm Nidheesh, A developer from India.
+ Hey, I'm Nidheesh, A Computer programmer from India 🇮🇳.
 
 <br>
 <br>
@@ -35,7 +35,7 @@
 <br>
 
 - 🌱 On a learning curve :yum:
-- ⚡ Fun fact: :key: In JS Object is everything  
+- ⚡ Fun fact: In Javascript object is everything. :key: 
 <!--
 **NidhitheCoder/NidhitheCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -50,3 +50,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+| Streaks |
+(https://github-readme-streak-stats.herokuapp.com/?user=NidhitheCoder&theme=dark)
+
+| Stats |
+(https://github-readme-stats.vercel.app/api?username=NidhitheCoder&show_icons=true&theme=light&hide_title=true)

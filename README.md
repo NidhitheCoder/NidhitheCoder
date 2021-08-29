@@ -50,12 +50,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![NidhitheCoder](https://github-readme-streak-stats.herokuapp.com/?user=NidhitheCoder&theme=light)
 <br>
 <hr>
 <br>
-![Peace's github stats](https://github-readme-stats.vercel.app/api?username=NidhitheCoder&show_icons=true&theme=light&hide_title=true)
+
+![NidhitheCoder](https://github-readme-streak-stats.herokuapp.com/?user=NidhitheCoder&theme=light)
 <br>
 <hr>
 <br>

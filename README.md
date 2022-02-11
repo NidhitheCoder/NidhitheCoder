@@ -1,6 +1,6 @@
 # Hi there 👋
 
- Hey, I'm Nidheesh, A Computer programmer from India 🇮🇳.
+ Hey, I'm Nidheesh, A big fan of pure Javascript and CSS.
 
 <br>
 <br>
@@ -50,6 +50,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br>
+<hr>
+<br>
+
+<div align="center">
+  <a href="https://github.com/NidhitheCoder">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NidhitheCoder&layout=compact&langs_count=7&theme=light"/>
+</div>
 <br>
 <hr>
 <br>
